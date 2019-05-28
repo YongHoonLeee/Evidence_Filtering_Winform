@@ -1,0 +1,9 @@
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\bin\Release\Capstone_test_1.exe.config
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\bin\Release\Capstone_test_1.exe
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\bin\Release\Capstone_test_1.pdb
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\obj\Release\Capstone_test_1.csprojResolveAssemblyReference.cache
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\obj\Release\Capstone_test_1.FCF.resources
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\obj\Release\Capstone_test_1.Properties.Resources.resources
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\obj\Release\Capstone_test_1.csproj.GenerateResource.Cache
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\obj\Release\Capstone_test_1.exe
+C:\Users\PKNU\Documents\Visual Studio 2015\Projects\Capstones\Capstone_test_1\Capstone_test_1\obj\Release\Capstone_test_1.pdb
